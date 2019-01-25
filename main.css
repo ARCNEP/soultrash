@@ -1,0 +1,111 @@
+
+ html {
+	
+	height: 100%;
+	overflow: hidden;
+	background-image: url('soul.png') ;
+
+
+}
+
+
+
+
+.pictures{
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	right: 0;
+	bottom: 0;
+	left:0;
+	float: center;
+
+	
+}
+
+#audio1{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio1:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+           cursor: none;
+}
+
+#audio2{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio2:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+           cursor: none;
+}
+
+#audio3{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio3:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+           cursor: none;
+}
+
+#audio4{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio4:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+           cursor: none;
+}
+
+#audio5{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio5:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+           cursor: none;
+}
+
+#audio6{
+
+	 -webkit-transition: -webkit-transform 300s ;
+          transition:         transform 300s ;
+           cursor: none;
+}
+
+#audio6:active {
+
+	-webkit-transform: rotate(60000deg);
+          transform: rotate(60000deg);
+          cursor: none;
+}
+
+
+
